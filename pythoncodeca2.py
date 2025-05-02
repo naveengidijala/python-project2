@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-
 import matplotlib.pyplot as plt
 
 #loading the dataset by using path address
