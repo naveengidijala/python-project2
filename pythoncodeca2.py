@@ -17,7 +17,7 @@ data['Total Pay'] = (
 average_pay = data['Total Pay'].mean()
 median_pay = data['Total Pay'].median()
 pay_std_dev = data['Total Pay'].std()
-print(f"--- Salary Stats ---")
+print(f"Salary Stats ")
 print(f"Average Pay: ${average_pay:,.2f}")
 print(f"Median Pay: ${median_pay:,.2f}")
 print(f"Standard Deviation: ${pay_std_dev:,.2f}")
